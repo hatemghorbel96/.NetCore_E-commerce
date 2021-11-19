@@ -1,0 +1,31 @@
+﻿@model IEnumerable<webGestionvente2.Models.Commande>
+    <h4>
+        <span class="badge badge-primary"> <i class="fa fa-handshake"> Merci @User.Identity.Name @ViewBag.CheckoutCompleteMessage </i></span>
+
+    </h4>
+    <hr />
+
+ 
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th colspan="2"><span class="badge badge-info"><i class="fa fa-file-invoice-dollar"> Information du commande</i></span></th>
+
+            </tr>
+
+        </thead>
+
+       
+        <tr>
+            <td> votre commande n'est pas encore validé @ViewBag.comid1</td>
+            <td>il sera disponible a vous avant le @ViewBag.comid </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                votre prix total @ViewBag.test DT
+            </td>
+        </tr>
+
+    </table>
+    <a class="btn btn-warning" asp-controller="Commande" asp-action="viderpanier"><i class="fa fa-truck-loading"> Vider panier</i></a>

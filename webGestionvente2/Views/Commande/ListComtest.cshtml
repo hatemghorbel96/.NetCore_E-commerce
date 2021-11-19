@@ -1,0 +1,59 @@
+﻿@model IEnumerable<webGestionvente2.Models.Commande>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1><i class="fa fa-clipboard-list"> Liste des commandes</i></h1>
+
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numtel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adresse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Commandetotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Datecommande)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numtel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adresse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Commandetotal) DT
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Datecommande)
+            </td>
+
+            <td>
+                <a asp-action="valid" asp-controller="Commande"><i class="fa fa-check-circle"> Valider</i></a> |
+                <a asp-action="DeleteCom" asp-controller="Commande" asp-route-id="@item.CommandeId"><i class="fa fa-clipboard-check"> Terminer</i></a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

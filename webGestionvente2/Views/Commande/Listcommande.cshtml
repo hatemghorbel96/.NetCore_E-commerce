@@ -1,0 +1,52 @@
+﻿@model IEnumerable<webGestionvente2.Models.CommandeDetail>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Montant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prix)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Article.nomArticle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Commande.Nom)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Montant)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prix)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Article.nomArticle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Commande.Nom)
+            </td>
+            <td>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

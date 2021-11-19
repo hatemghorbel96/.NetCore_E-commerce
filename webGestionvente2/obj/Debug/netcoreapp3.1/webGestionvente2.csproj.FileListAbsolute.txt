@@ -1,0 +1,393 @@
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.exe
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.deps.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.runtimeconfig.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.Views.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.Views.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.TagHelpers.input.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.TagHelpers.output.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorCoreGenerate.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Create.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Delete.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Details.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Edit.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Create.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Delete.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Details.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Edit.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Index.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Checkout.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\CheckoutComplete.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Compte\Login.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Compte\Register.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Panier\Index.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.Views.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.CopyComplete
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\staticwebassets\webGestionvente2.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\staticwebassets\webGestionvente2.StaticWebAssets.xml
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.dll
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.pdb
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Listcommande.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\ListComtest.cshtml.g.cs
+C:\Users\Administrator\source\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\ValidCom.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\libman.json
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.StaticWebAssets.xml
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.exe
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.deps.json
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.runtimeconfig.json
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.runtimeconfig.dev.json
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.Views.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.Views.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.AssemblyReference.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.GeneratedMSBuildEditorConfig.editorconfig
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.AssemblyInfoInputs.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.AssemblyInfo.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.CoreCompileInputs.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.MvcApplicationPartsAssemblyInfo.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorAssemblyInfo.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorAssemblyInfo.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\staticwebassets\webGestionvente2.StaticWebAssets.Manifest.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.TagHelpers.input.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.TagHelpers.output.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorCoreGenerate.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Create.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Delete.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Details.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Edit.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Create.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Delete.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Details.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Edit.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Index.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Checkout.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\CheckoutComplete.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Listcommande.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\ListComtest.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\ValidCom.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Compte\Login.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Compte\Register.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Panier\Index.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorTargetAssemblyInfo.cache
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorTargetAssemblyInfo.cs
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.Views.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.CopyComplete
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.dll
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.pdb
+E:\cour master glnt\asp.net core\repos\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.genruntimeconfig.cache
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\libman.json
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.StaticWebAssets.xml
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.exe
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.deps.json
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.runtimeconfig.json
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.runtimeconfig.dev.json
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.pdb
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.Views.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\webGestionvente2.Views.pdb
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\cour\webGestionvente2\webGestionvente2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.AssemblyReference.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.GeneratedMSBuildEditorConfig.editorconfig
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.AssemblyInfoInputs.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.AssemblyInfo.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.CoreCompileInputs.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.MvcApplicationPartsAssemblyInfo.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorAssemblyInfo.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorAssemblyInfo.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\staticwebassets\webGestionvente2.StaticWebAssets.Manifest.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.TagHelpers.input.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.TagHelpers.output.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorCoreGenerate.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Create.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Delete.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Details.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Edit.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Create.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Delete.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Details.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Edit.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Categorie\Index.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Checkout.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\CheckoutComplete.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Listcommande.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\ListComtest.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Commande\ValidCom.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Compte\Login.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Compte\Register.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Panier\Index.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorTargetAssemblyInfo.cache
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.RazorTargetAssemblyInfo.cs
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.Views.pdb
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.csproj.CopyComplete
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.dll
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.pdb
+E:\cour\webGestionvente2\webGestionvente2\obj\Debug\netcoreapp3.1\webGestionvente2.genruntimeconfig.cache

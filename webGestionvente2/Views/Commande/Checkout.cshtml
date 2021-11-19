@@ -1,0 +1,85 @@
+﻿@model webGestionvente2.Models.Commande
+
+
+    <div class="col-lg-9 col-1" solid #bbb9b9">
+        <h3 class="text-center"><i class="fa fa-truck"> commande information</i></h3>
+        <div asp-validation-summary="All"></div>
+        <form asp-action="Checkout" method="post" role="form">
+
+            <div class="form-group">
+                <label asp-for="Nom" class="col-md-3 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Nom" class="form-control" />
+                    <span asp-validation-for="Nom" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prenom" class="col-md-3 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Prenom" class="form-control" />
+                    <span asp-validation-for="Prenom" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Adresse" class="col-md-2 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Adresse" class="form-control" />
+                    <span asp-validation-for="Adresse" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Codepostal" class="col-md-2 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Codepostal" class="form-control" />
+                    <span asp-validation-for="Codepostal" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ville" class="col-md-2 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Ville" class="form-control" />
+                    <span asp-validation-for="Ville" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Pays" class="col-md-2 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Pays" class="form-control" />
+                    <span asp-validation-for="Pays" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="col-md-2 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Numtel" class="col-md-2 control-label"></label>
+                <div class="col-md-9">
+                    <input asp-for="Numtel" class="form-control" />
+                    <span asp-validation-for="Numtel" class="text-danger"></span>
+                </div>
+            </div>
+
+
+
+
+            <div class="form-group">
+                <div class="btn-group col-md-offset-2 col-md-8">
+                    <input class="btn btn-success" type="submit" value="Valider commande" />
+                    
+                    
+                </div>
+
+            </div>
+        </form>
+
+    </div>

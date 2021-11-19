@@ -1,0 +1,52 @@
+﻿@model webGestionvente2.viewmodele.Panierviewmodel
+
+<div class="row checkoutForm">
+    <h2><i class="fa fa-shopping-cart"> Panier</i></h2>
+    <hr />
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>montant</th>
+                <th>article</th>
+                <th class="text-right">prix</th>
+                <th class="text-right">total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var line in Model.Panier.PanierArticles)
+            {
+                <tr>
+                    <td class="text-center">@line.Montant</td>
+                    <td class="text-left">@line.Article.nomArticle</td>
+                    <td class="text-right">@line.Article.prix.ToString() DT</td>
+                    <td class="text-right">
+                        @((line.Montant * line.Article.prix).ToString()) DT
+                    </td>
+                    <td class="text-center"><p class="button "><a class="btn btn-danger" asp-controller="Panier" asp-action="DeleteFromPanier" asp-route-id="@line.Article.ArticleID"><i class="fa fa-minus-circle"></i></a></p></td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-right">Total:</td>
+                <td class="text-right">
+                    <span class="badge badge-warning"> @Model.PanierTotal.ToString() DT </span>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="text-right">
+        <div class="btn-group ">
+            <a class="btn btn-success" asp-controller="Commande" asp-action="Checkout"><i class="fa fa-cart-arrow-down"> Commander</i></a>
+            <div class="btn-group ">
+                <a class="btn btn-primary" asp-controller="Article" asp-action="index">
+                    <i class="fa fa-cart-plus"> Continuer mes achats</i><span class="caret"></span>
+                </a>
+
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+﻿@model webGestionvente2.Models.Categorie
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1><i class="fa fa-info-circle"></i> Details</h1>
+
+<div>
+   
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.categorieName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.categorieName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.description)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index"><i class="fa fa-backward"> Retour</i></a> |
+    <a asp-action="Edit" asp-route-id="@Model.CategorieId"><i class="fa fa-edit"> Modifier</i></a>
+
+</div>

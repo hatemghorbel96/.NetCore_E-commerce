@@ -1,0 +1,118 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PC Shop</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/font-awesome/css/all.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-light bg-light">
+             
+            <span class="navbar-brand mb-lg-4 h1"><img srcset="~/img/test.png" style="margin-left:5px" />&nbsp;<span><b class="text-info" style="font-family:'Freestyle Script';font-size:40px;text-decoration-line:underline; text-decoration-style:wavy">   Hatem Store</b></span> </span>
+            <ul class="navbar-nav flex-grow-11 ">
+                <li class="nav-item float-right" style="width:100%">
+                    <form class="form-inline" asp-action="Search" asp-controller="Article">
+                        <div class="form-group">
+                            <label for="inputPassword6"></label>
+                            <input type="search" name="term" class="form-control m-lg-auto" placeholder="tapez un Article">
+                            <button type="submit" class="btn btn-primary"><i class="fa fa-search"> Recherche</i></button>
+                        </div>
+                    </form>
+                </li>
+            </ul>
+            @*  @model webGestionvente2.viewmodele.Panierviewmodel
+
+
+            @inject SignInManager<IdentityUser> SignInManager
+
+              @if (Model.Panier.PanierArticles.Count > 0 && SignInManager.IsSignedIn(User))
+        {
+
+            <a asp-controller="Panier">
+                <span class="glyphicon glyphicon-shopping-cart"></span>
+                <span id="cart-status">
+                    @Model.Panier.PanierArticles.Count
+                </span>
+            </a>
+
+        }*@
+            @using Microsoft.AspNetCore.Identity
+            @using Microsoft.AspNetCore.Identity.EntityFrameworkCore
+            @inject SignInManager<IdentityUser> SignInManager
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <form asp-area="" asp-controller="Compte" asp-action="Logout" id="logoutForm"
+                      method="post" class="navbar-right">
+                    <ul class="nav navbar-nav text-black-50">
+
+                        <li class="badge-info">
+                            <i class="fa fa-user"> bienvenue @User.Identity.Name</i>
+                        </li>
+                        
+                        <li class="btn btn-outline-success"><a href="javascript:document.getElementById('logoutForm').submit()"><i class="fa fa-user-alt-slash"> Déconnexion</i></a></li>
+                    </ul>
+                </form>
+            }
+            else
+            {
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="btn btn-outline-primary"><a id="registerLink" asp-controller="Compte" asp-action="Register"><i class="fa fa-user-plus"> Inscription</i></a></li>
+                    <li class="btn btn-outline-primary"><a id="loginLink" asp-controller="Compte" asp-action="Login"><i class="fa fa-user"> connect</i></a></li>
+                </ul>
+            }
+        </nav>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Article" asp-action="Index"><i class="fa fa-home"> Acceuil </i></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+
+                                <a class="nav-link text-white" asp-area="" asp-controller="Article" asp-action="Index"><i class="fa fa-archive"> Gestion des articles </i></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Categorie" asp-action="Index"><i class="fa fa-keyboard"> Gestion des categories </i></a>
+                           
+                                </li> 
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Commande" asp-action="ListComtest"><i class="fa fa-hand-holding-usd"> List des commandes </i></a>
+                            </li>
+                                <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Admin" asp-action="ListRoles"><i class="fa fa-users-cog"> Gestion des Roles </i></a>
+                            </li> }
+                        </ul>
+
+                </div>
+            </div>
+        
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - webGestionvente2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

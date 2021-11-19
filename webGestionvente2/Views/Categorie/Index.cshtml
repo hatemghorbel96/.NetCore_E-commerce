@@ -1,0 +1,41 @@
+﻿@model IEnumerable<webGestionvente2.Models.Categorie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Liste des catégories</h1>
+
+<p>
+    <a class="btn btn-primary m-1" asp-action="Create"><i class="fa fa-plus-circle"> Ajouter nouveau</i></a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.categorieName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.categorieName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CategorieId"><i class="fa fa-edit"> Modifier</i></a> |
+                <a asp-action="Details" asp-route-id="@item.CategorieId"><i class="fa fa-eye"> Détails</i></a> |
+                <a asp-action="Delete" asp-route-id="@item.CategorieId"><i class="fa fa-trash"> Supprimer</i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
